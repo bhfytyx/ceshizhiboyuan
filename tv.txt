@@ -340,7 +340,7 @@ http://play.kankanlive.com/live/1703747194431958.m3u8
 #EXTINF:-1 tvg-name="广东民生" group-title="广东",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
-https://stream1.freetv.fun/yan-dong-zhu-jiang-10.ctv
+https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=84aabb7fca23094ed6738b484dd30c3d-ehGsI0HKz4NeHyWr2jJPVKns2oRDaRF2f6Gt%2FJUL8kKVHxV9Nsje11tLMxRfcUuu9SNhcK8r7K9BiMvYP5cC6KBBCQZdKVZsaaWGFNZHUCGiV%2B25tBjLi6sw6B0VR2v8UExL2V2snngCae6Uj3S3ap7S9gCjjgeq6qoBiloamlno9gT53immPqMxcmND3o%2FPv7slKbqfWdFVVQn9D4AQStIBA96HQBzIkOV0ocz8tjkMWfxwyzFZKZYixupX3X5enpYkgtql%2B8VYLjAsGWhGlsS3%2BQEAbUaJR5%2F4bisMtmNd1LjMeUbUklso6i0wVozzafGo5h3R7wW%2B9ggmGEvCjQ9KuqJqNnMUKQBqNZ40PHw%3D
 #EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
 http://www.zzlag.top:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
