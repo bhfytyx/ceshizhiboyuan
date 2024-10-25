@@ -340,7 +340,7 @@ http://play.kankanlive.com/live/1703747194431958.m3u8
 #EXTINF:-1 tvg-name="广东民生" group-title="广东",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
-https://stream1.freetv.fun/yan-dong-zhu-jiang-23.ctv
+https://stream1.freetv.fun/yan-dong-zhu-jiang-10.ctv
 #EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
 http://www.zzlag.top:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
