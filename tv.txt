@@ -340,11 +340,7 @@ http://play.kankanlive.com/live/1703747194431958.m3u8
 #EXTINF:-1 tvg-name="广东民生" group-title="广东",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
-http://116.21.125.104:7777/udp/239.77.0.1:5146
-#EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
-http://www.zzlag.top:9003/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
-http://58.254.14.186:808/hls/55/index.m3u8
+https://stream1.freetv.fun/943a56c1980ac8d65adeb0603437a8cd8da6241b019e93bba89c37ff050946e5.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-name="河源综合" group-title="广东",河源综合
